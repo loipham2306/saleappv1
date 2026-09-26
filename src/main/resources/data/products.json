@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 14 Pro",
+    "description": "Điện thoại Apple cao cấp",
+    "price": 25000000,
+    "image": "ip14pro.jpe",
+    "categoryId": 1
+  },
+  {
+    "id": 2,
+    "name": "iPad Pro 11",
+    "description": "Máy tính bảng Apple",
+    "price": 20000000,
+    "image": "ippro11.jpe",
+    "categoryId": 2
+  }
+]
